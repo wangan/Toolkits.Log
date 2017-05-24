@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Toolkits.Log</id>
+    <version>0.1.1</version>
+    <title>Toolkits.Log</title>
+    <authors>wangan</authors>
+    <owners>wangan</owners>
+    <projectUrl>https://github.com/wangan/Toolkits.Log</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Log support</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>Toolkits</tags>
+
+    <dependencies>
+      <dependency id="Toolkits" version="0.1.0" />
+      <dependency id="log4net" version="2.0.8" />
+    </dependencies>
+  </metadata>
+</package>
